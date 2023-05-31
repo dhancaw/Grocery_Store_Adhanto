@@ -1,10 +1,7 @@
-# Toko Sembako Adhanto
-Prepared by Adhanto Bagaskoro for the Module 1 Final Project of Purwadhika JCDS Program.
+# Capstone Project Module 1
+Capstone Project Modul 1 Programming Fundamental (Python)
 
-I am a student at Purwadhika Digital Technology School, participating in the Job Connector Data Science & Machine Learning program. My final project is to create a simple Python program for Toko Sembako Adhanto, a grocery store. The program includes the functions Create, Read, Delete, and Update. The Create function is used to add new items to the system, Read function to view the list of items, Delete function to remove items, and Update function to update item information. This program helps users manage inventory and transactions at the grocery store, improving efficiency and data accuracy.
-
-1. Here is an example of the initial program interface with a menu to login as a store employee or a customer, and the exit option as the only way to exit the program. Users can select the appropriate option, and the program will proceed by executing the relevant code or exit the program if the exit option is chosen.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/1f7c5b35-ecf6-475d-be38-e452ec0fa681)
-2. If the user selects menu 1 to login as a store employee, the program will prompt the user to enter the predefined password.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/79fee660-90b6-4e99-b4bd-66d638da373f)
-3. If the password entered by the user is incorrect, the program will display a notification that the login attempt was unsuccessful, and the user will be returned to the initial interface to choose the login option again.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/2d92b555-e393-4d84-aeef-c68f61f2712a)
-4. If the password is correct, the program will proceed to the employee menu interface, which consists of options such as "View Inventory" (Read), "Add Item" (Create), "Update Inventory" (Update and Delete), with the 4th option to return to the Main Menu.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/cdbf0ecc-b556-470a-ad99-64d82d447d83)
-5. When the user selects the option to "View Inventory" from the menu, three display options will appear: display by category, display all inventory, and display based on a user-inputted keyword.
+Nama: Adhanto Bagaskoro
+Program: Job Connector Data Science and Machine Learning (Online)
+Batch: JCDSOL-010
+Case Study: Penjualan Barang Toko
