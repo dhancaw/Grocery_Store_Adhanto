@@ -1,19 +1,10 @@
 # Toko Sembako Adhanto
-Prepared by Adhanto Bagaskoro for Purwadhika JCDS Program's Module 1 Final Project
+Prepared by Adhanto Bagaskoro for the Module 1 Final Project of Purwadhika JCDS Program.
 
-Saya adalah seorang siswa yang mengikuti program Job Connector Data Science & Machine Learning di Purwadhika Digital Technology School. Setelah mempelajari dasar-dasar pemrograman dengan menggunakan Python dalam Modul 1, tugas akhir saya adalah membuat sebuah program sederhana menggunakan Python untuk digunakan dalam transaksi di Toko Sembako Adhanto.
+I am a student at Purwadhika Digital Technology School, participating in the Job Connector Data Science & Machine Learning program. My final project is to create a simple Python program for Toko Sembako Adhanto, a grocery store. The program includes the functions Create, Read, Delete, and Update. The Create function is used to add new items to the system, Read function to view the list of items, Delete function to remove items, and Update function to update item information. This program helps users manage inventory and transactions at the grocery store, improving efficiency and data accuracy.
 
-Toko Sembako Adhanto adalah sebuah toko sembako yang menyediakan barang-barang kebutuhan sehari-hari untuk warga sekitar. Program yang saya buat memiliki empat fungsi utama: Create, Read, Delete, dan Update.
-
-Fungsi Create memungkinkan pengguna untuk menambahkan barang-barang baru ke dalam sistem dengan memasukkan informasi seperti nama barang, harga, dan stok. Data yang dimasukkan akan disimpan dalam database atau struktur data yang sesuai.
-
-Fungsi Read digunakan untuk melihat daftar barang yang tersedia di toko sembako. Pengguna dapat melihat detail setiap barang, termasuk nama, harga, dan stok. Fitur ini membantu pengguna mendapatkan informasi yang lengkap tentang produk yang ada di toko.
-
-Fungsi Delete memungkinkan pengguna untuk menghapus barang tertentu dari sistem. Jika suatu barang sudah tidak dijual lagi atau stoknya habis, pengguna dapat menghapusnya dari database atau struktur data. Fitur ini membantu pengguna menjaga keakuratan dan kelengkapan data di toko.
-
-Fungsi Update memungkinkan pengguna untuk memperbarui informasi tentang barang tertentu. Jika ada perubahan harga atau jumlah stok suatu barang, pengguna dapat mengubah informasi yang relevan. Fitur ini memudahkan pengguna dalam mengelola dan memperbarui data barang di toko sembako.
-
-Dengan program ini, pengguna dapat mengelola inventaris dan transaksi di Toko Sembako Adhanto dengan lebih efisien. Mereka dapat dengan mudah menambahkan, melihat, menghapus, dan memperbarui informasi barang yang tersedia. Program ini membantu meningkatkan pengalaman pengguna dalam bertransaksi dan menjaga keakuratan data di toko sembako.
-
-1. Berikut adalah contoh interface awal program dengan menu untuk login sebagai karyawan toko atau customer, dan pilihan exit sebagai satu-satunya jalan untuk keluar dari program:
-![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/a0aad745-511c-4045-844b-e23de27c0482)
+1. Here is an example of the initial program interface with a menu to login as a store employee or a customer, and the exit option as the only way to exit the program. Users can select the appropriate option, and the program will proceed by executing the relevant code or exit the program if the exit option is chosen.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/1f7c5b35-ecf6-475d-be38-e452ec0fa681)
+2. If the user selects menu 1 to login as a store employee, the program will prompt the user to enter the predefined password.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/79fee660-90b6-4e99-b4bd-66d638da373f)
+3. If the password entered by the user is incorrect, the program will display a notification that the login attempt was unsuccessful, and the user will be returned to the initial interface to choose the login option again.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/2d92b555-e393-4d84-aeef-c68f61f2712a)
+4. If the password is correct, the program will proceed to the employee menu interface, which consists of options such as "View Inventory" (Read), "Add Item" (Create), "Update Inventory" (Update and Delete), with the 4th option to return to the Main Menu.![image](https://github.com/dhancaw/Toko_Sembako_Adhanto/assets/128244256/cdbf0ecc-b556-470a-ad99-64d82d447d83)
+5. When the user selects the option to "View Inventory" from the menu, three display options will appear: display by category, display all inventory, and display based on a user-inputted keyword.
